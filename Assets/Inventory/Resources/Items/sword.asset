@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88285c190c03a84429506c807355b693, type: 3}
+  m_Name: sword
+  m_EditorClassIdentifier: 
+  data:
+    itemGuid: 00
+    itemName: sword
+    itemImage: {fileID: 21300000, guid: 03dd1ef6fb163214c9e1ac0242dab3ba, type: 3}
+    itemHeld: 2
+    itemRemain: 0
+    itemcost: 0
+    itemInfo: 99
+    equip: 0
+  sdata:
+    itemName: 
+    itemImage: {fileID: 0}
+    itemHeld: 0
+    itemInfo: 
+  listdata:
+    kami_A_List:
+    - {fileID: 11400000, guid: 6ad15c286d685e94b8cc8a8796facb0b, type: 2}
+    kami_A_skillList:
+    - {fileID: 0}
+    kami_B_List:
+    - {fileID: 0}
+    kami_B_skillList:
+    - {fileID: 11400000, guid: 0381041b01ba9ad4fbcd3b2544a3c421, type: 2}
+    kami_C_List:
+    - {fileID: 0}
+    kami_C_skillList:
+    - {fileID: 0}
+    kami_D_List:
+    - {fileID: 0}
+    kami_D_skillList:
+    - {fileID: 0}
+  mosaiclist:
+  - {fileID: 11400000, guid: 6ad15c286d685e94b8cc8a8796facb0b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 0381041b01ba9ad4fbcd3b2544a3c421, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
